@@ -497,6 +497,17 @@ startup file::
 
     eval "`pip completion --bash`"
 
+Fig
+---
+
+|fig| `Fig <https://fig.io>`_ provides IDE-style autocompletions for pip. It works in bash, zsh, and fish.
+
+To install, run:
+
+   brew install fig
+
+.. |fig| image:: https://fig.io/badges/Logo.svg
+   :height: 15px
 
 
 .. _`Installing from local packages`:
